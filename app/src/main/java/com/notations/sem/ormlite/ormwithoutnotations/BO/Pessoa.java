@@ -6,6 +6,7 @@ import com.j256.ormlite.table.DatabaseTable;
 /**
  * Created by domin on 23/08/2015.
  */
+//Minha classe do banco
 @DatabaseTable
 public class Pessoa {
 
