@@ -13,7 +13,7 @@ import com.notations.sem.ormlite.ormwithoutnotations.DAL.PessoaDao;
 
 import java.util.List;
 
-
+//Classe de listagem
 public class ListagemActivity extends ActionBarActivity {
 
     @Override
